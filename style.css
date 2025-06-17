@@ -10,7 +10,6 @@
 
     body {
         background-color: var(--cream);
-        height: 100vh;
         display: flex;
         justify-content: center;
     }

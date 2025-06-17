@@ -12,7 +12,6 @@
         background-color: var(--cream);
         display: flex;
         justify-content: center;
-        align-items: center;
     }
 
     main {

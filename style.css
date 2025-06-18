@@ -15,6 +15,10 @@ body {
     height: 100vh;
 }
 
+.fa-solid {
+    color: var(--white);
+} 
+
 @media (max-width: 48rem) {
 
     main {

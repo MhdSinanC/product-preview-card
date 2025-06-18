@@ -98,6 +98,7 @@ body {
         color: var(--white);
         font-family: 'Montserrat', sans-serif;
         font-weight: 700;
+        transition: all 0.2s ease-out;
     }
 
     .cart:hover {
